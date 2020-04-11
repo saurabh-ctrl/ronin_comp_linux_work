@@ -1,3 +1,7 @@
+# NAME : Saurabh Pandurang Bhosale
+# Branch : VLSI and ES (FY MTech)
+# MIS no : 121935007
+
 #checking Internet Connectivity
 
 #!/bin/bash
