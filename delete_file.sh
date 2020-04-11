@@ -1,4 +1,8 @@
-#Deleting all files with size less than 1024 bytes. Required file name provided by the user
+# NAME : Saurabh Pandurang Bhosale
+# Branch : VLSI and ES (FY MTech)
+# MIS no : 121935007
+
+#Deleting all files with size less than provided by user. Required file name provided by the user
 
 #!/bin/bash
 
