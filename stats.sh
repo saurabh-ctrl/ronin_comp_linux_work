@@ -21,10 +21,10 @@ done
 
 #Description:
 #Here main command are:
-#1.	ps		:	information about currently running process
-#2. -aux	: 	i)	a option tells ps to display the processes of all users
-#				ii)	u stands for a user-oriented format 
-#				iii)x option instructs ps to list the processes without a controlling terminal.
-#3.	--sort=-%cpu : sirting done with highest cpu usage process
-#4. du -h	: 	Disk usage display with user friendly style
+#	1. ps			:	information about currently running process
+#	2. -aux			:	 i)	'a' option tells ps to display the processes of all users
+#					ii)	'u' stands for a user-oriented format 
+#					iii)	'x' option instructs ps to list the processes without a controlling terminal.
+#	3. --sort=-%cpu 	:	sorting done with highest cpu usage process
+#	4. du -h		:	Disk usage display with user friendly style
 			
